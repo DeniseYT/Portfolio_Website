@@ -1,12 +1,9 @@
 body {
-    background-color: pink
+   background-color: pink
 }
 
-
-
-  
-  /* Style the button */
-  button {
+/* Style the button */
+button {
     padding: 10px;
     font-size: 15px;
     width: 150px;
@@ -19,15 +16,12 @@ body {
     float: right;
     cursor: pointer;
     border-radius: 16px;
-    
-  }
+}
 
 .w3-bar-block {
   font-family: 'Serif';
   font-weight: bold;
-
 }
-
 
 /* h1 {
     font-family: 'Cambria';
@@ -42,18 +36,16 @@ h1 {
 }
 
 h2 {
-    font-family: 'Serif';
-    font-weight: bold;
+  font-family: 'Serif';
+  font-weight: bold;
 }
 
 /* h3 {
     font-family: 'Verdana';
 } */
 
-
 /* h4 {
     font-family: 'Sans Serif';
-    
 }  */
 
 h5 {
@@ -64,13 +56,11 @@ p {
   font-family: 'Verdana';
 }
 
-
-
-  /* Timeline */
+/* Timeline */
 *,
 *::before,
 *::after {
-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -260,5 +250,3 @@ body {
     border-radius: 500px 0 0 500px;
   }
 }
-  
-  
